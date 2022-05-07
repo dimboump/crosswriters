@@ -1,3 +1,18 @@
+# Custom exclusions
+*.txt
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.xlsx
+*.pptx
+*.zip
+*.tar
+*.gz
+
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
