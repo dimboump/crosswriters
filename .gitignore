@@ -1,17 +1,24 @@
-# Custom exclusions
-*.txt
-*.pdf
-*.png
-*.jpg
-*.jpeg
+# Custom ignores
+.DS_Store
+
+.vscode*/
+ipynb_checkpoints*/
+data*/
+literature/
+
 *.docx
 *.xlsx
 *.pptx
-*.zip
-*.tar
-*.gz
+*.pdf
 
-data/
+*.png
+*.jpg
+*.jpeg
+
+*.zip
+*.rar
+*.tar
+*.7z
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
