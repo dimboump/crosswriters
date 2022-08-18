@@ -1,10 +1,12 @@
 # Custom ignores
 .DS_Store
+.gitmodules
 
 .vscode*/
 ipynb_checkpoints*/
 data*/
 literature/
+wiki/
 
 *.docx
 *.xlsx
