@@ -176,6 +176,8 @@ culpper
 cunliffe
 cut
 da
+dæmon
+dæmons
 dad
 daddy
 dan
@@ -826,6 +828,7 @@ victory
 vincent
 vogel
 voldemort
+vrykolakas
 wall
 warner
 watermill
