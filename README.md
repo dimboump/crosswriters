@@ -55,41 +55,41 @@ The authors whose texts were examined are:
 ### General plots
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/gender_per_reader_group.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/gender_per_reader_group_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/gender_per_reader_group.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/gender_per_reader_group_dark.svg">
     <img alt="Number of books per gender of authors" src="img/EDA/gender_per_reader_group_dark.svg">
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/books_per_reader_group.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/books_per_reader_group_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/books_per_reader_group.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/books_per_reader_group_dark.svg">
     <img alt="Number of books per reader age group" src="img/EDA/books_per_reader_group.svg">
 </picture>
 
 ### Publications per author over time
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Almond.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Almond_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Almond.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Almond_dark.svg">
     <img alt="Almond" src="img/EDA/publications_per_reader_group_Almond.svg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Fine.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Fine_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Fine.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Fine_dark.svg">
     <img alt="Fine" src="img/EDA/publications_per_reader_group_Fine.svg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Gaiman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Gaiman_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Gaiman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Gaiman_dark.svg">
     <img alt="Gaiman" src="img/EDA/publications_per_reader_group_Gaiman.svg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Pullman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Pullman_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Pullman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Pullman_dark.svg">
     <img alt="Pullman" src="img/EDA/publications_per_reader_group_Pullman.svg">
 </picture>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Rowling.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Rowling_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/EDA/publications_per_reader_group_Rowling.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/EDA/publications_per_reader_group_Rowling_dark.svg">
     <img alt="Rowling" src="img/EDA/publications_per_reader_group_Rowling.svg">
 </picture>
