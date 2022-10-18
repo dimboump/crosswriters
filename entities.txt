@@ -149,6 +149,7 @@ church
 cinderella
 city
 claire
+clay
 co
 cody
 cold
@@ -305,9 +306,11 @@ gerald
 geraldine
 gifts
 gillespie
+ginny
 god
 godsw
 gold
+goldberg
 gordon
 gracie
 gram
@@ -810,6 +813,7 @@ tory
 tower
 trent
 tristram
+tristran
 trollesund
 trout
 tu
