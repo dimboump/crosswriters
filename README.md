@@ -44,7 +44,7 @@ The paper is [available in PDF format](Identifying_Crosswriters_Altering_Style_i
 
 ## Abstract
 
-Stylometry is the quantitative study of literary style through computational distant reading methods. It is based on the observation that authors tend to write in relatively consistent, recognisable, and unique ways (Laramée, 2018). Identifying the similarities and differences in style, content, and genre between literature intended for children and adults has always been under the radar of researchers in the field of Computational Literary Studies. However, only recently has examining the implications of cross-writing (i.e., writing works for various readership age groups) gotten attention. In this study, supervised machine learning methods were applied to get a better understanding on whether and how such authors (“crosswriters”) alter their style when targeting a different age group, based entirely on content words. The study was conducted on 5 English authors, and the SVM models reach an F1 macro score of .74 when predicting the age group using all texts and .93 on average for each of the authors individually. To achieve these results, it was essential to overcome the issue of overfitting on the characters of the stories, which was made possible by implementing a Named Entity Recognition (NER) step in the preprocessing pipeline and leaving at least one book by each author out of the train set entirely in each of the 10 folds during Cross-Validation.
+Stylometry is the quantitative study of literary style through computational distant reading methods. It is based on the observation that authors tend to write in relatively consistent, recognisable, and unique ways (Laramée, 2018). Identifying the similarities and differences in style, content, and genre between literature intended for children and adults has always been under the radar of researchers in the field of Computational Literary Studies. However, only recently has examining the implications of cross-writing (i.e., writing works for various readership age groups) gotten attention. In this study, supervised machine learning methods were applied to get a better understanding on whether and how such authors (“crosswriters”) alter their style when targeting a different age group, based entirely on content words. The study was conducted on 5 English authors, and the SVM models reach an F1 macro score of .73 when predicting the age group using all texts and .93 on average for each of the authors individually. To achieve these results, it was essential to overcome the issue of overfitting on the characters of the stories, which was dealt with by (a) implementing a Named Entity Recognition (NER) step in the preprocessing pipeline; and (b) leaving at least one book by each author out of the train set entirely in each of the folds during Cross-Validation.
 
 ## Exploratory Data Analysis
 
@@ -147,7 +147,7 @@ Type-token ratio:
 | **Neil Gaiman**     | .939        | .928  | .931         | .916  
 | **Phillip Pullman** | .918        | .771  | .962         | .906  
 | **J.K. Rowling**    | .991        | .991  | .999         | .999  
-| **All authors**     | .994        | .851  | .795         | .743
+| **All authors**     | .764        | .680  | .788         | .734
 
 ## Citation
 
